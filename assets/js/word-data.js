@@ -310,8 +310,233 @@ const wordData=[
         img:"https://personal-project.b-cdn.net/flashcard-english/image/fishsauce.avif",
         vocabulary:"fish sauce (n)",
         translate:"nước mắm",
-        transcription:"/ˈkʌri/",
-        url:"https://www.oxfordlearnersdictionaries.com/definition/english/curry_1?q=curry",
-        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/curry__gb_1.mp3"
+        transcription:"/fɪʃ/ /sɔːs/",
+        url:"",
+        audio:""
+    },
+    {
+        id:36,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/acerbity.avif",
+        vocabulary:"acerbity (n)",
+        translate:"vị chua",
+        transcription:"/əˈsɜːbəti/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/acerbity?q=acerbity",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/acerbity__gb_1.mp3"
+    },
+    {
+        id:37,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/bitter.jpg",
+        vocabulary:"bitter (n)",
+        translate:"vị đắng",
+        transcription:"/ˈbɪtə(r)/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/bitter_1?q=bitter",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/bitter__gb_1.mp3"
+    },
+    {
+        id:38,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/highlyseasoned.avif",
+        vocabulary:"highly-seasoned (n)",
+        translate:"đậm vị",
+        transcription:"/ˈhaɪli/ /ˈsiːznd/",
+        url:"",
+        audio:""
+    },
+    {
+        id:39,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/sour.avif",
+        vocabulary:"sour (adj)",
+        translate:"vị chua/oi thiu",
+        transcription:"/ˈsaʊə(r)/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/sour_1?q=sour",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/sour__gb_1.mp3"
+    },
+    {
+        id:40,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/overcooked.avif",
+        vocabulary:"over-cooked (adj)",
+        translate:"nấu quá lửa",
+        transcription:"/ˈəʊvə(r)/ /kʊk/",
+        url:"",
+        audio:""
+    },
+    {
+        id:41,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/rotten.jpg",
+        vocabulary:"rotten (adj)",
+        translate:"thối, rữa, hỏng",
+        transcription:"/ˈrɒtn/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/rotten_1?q=rotten",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/rotten__gb_1.mp3"
+    },
+    {
+        id:42,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/togetdrunk.avif",
+        vocabulary:"to get drunk (adj)",
+        translate:"say",
+        transcription:"/tə/ /ɡet/ /drʌŋk/",
+        url:"",
+        audio:""
+    },
+    {
+        id:43,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/atmosphere.avif",
+        vocabulary:"atmosphere (n)",
+        translate:"không khí",
+        transcription:"/ˈætməsfɪə(r)/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/atmosphere?q=atmosphere",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/atmosphere__gb_1.mp3"
+    },
+    {
+        id:44,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/order.avif",
+        vocabulary:"order (n)",
+        translate:"đặt hàng",
+        transcription:"/ˈɔːdə(r)/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/order_1?q=order",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/order__gb_1.mp3"
+    },
+    {
+        id:45,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/compliment.avif",
+        vocabulary:"compliment (n)",
+        translate:"lời khen",
+        transcription:"/ˈkɒmplɪmənt/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/compliment_1?q=compliment",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/compliment__gb_1.mp3"
+    },
+    {
+        id:46,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/workaholic.avif",
+        vocabulary:"workaholic (n)",
+        translate:"người tham công tiếc việc",
+        transcription:"/ˌwɜːkəˈhɒlɪk/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/workaholic?q=workaholic",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/workaholic__gb_1.mp3"
+    },
+    {
+        id:47,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/tax.avif",
+        vocabulary:"tax (n)",
+        translate:"thuế",
+        transcription:"/tæks/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/tax_1?q=tax",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/tax__gb_1.mp3"
+    },
+    {
+        id:48,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/jobdescription.avif",
+        vocabulary:"job description (n)",
+        translate:"mô tả công việc",
+        transcription:"/ˈdʒɒb dɪskrɪpʃn/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/job-description?q=job+description",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/job_description_1_gb_1.mp3"
+    },
+    {
+        id:49,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/workinghour.avif",
+        vocabulary:"working hour (n)",
+        translate:"thời gian làm việc",
+        transcription:"/ˈwɜːkɪŋ/ /ˈaʊə(r)/",
+        url:"",
+        audio:""
+    },
+    {
+        id:50,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/accounting.avif",
+        vocabulary:"accounting (n)",
+        translate:"kế toán",
+        transcription:"/əˈkaʊntɪŋ/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/accounting?q=accounting",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/accounting__gb_1.mp3"
+    },
+    {
+        id:51,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/document.avif",
+        vocabulary:"document (n)",
+        translate:"chứng từ",
+        transcription:"/ˈdɒkjumənt/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/document_1?q=document",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/document__gb_4.mp3"
+    },
+    {
+        id:52,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/department.avif",
+        vocabulary:"department (n)",
+        translate:"phòng ban",
+        transcription:"/dɪˈpɑːtmənt/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/department?q=department",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/department__gb_2.mp3"
+    },
+    {
+        id:53,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/coworker.avif",
+        vocabulary:"co-worker/colleague (n)",
+        translate:"đồng nghiệp",
+        transcription:"/ˈkəʊ wɜːkə(r)/ / /ˈkɒliːɡ/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/co-worker?q=co-worker",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/co_worker_1_gb_1.mp3"
+    },
+    {
+        id:54,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/employer.avif",
+        vocabulary:"employer/employee (n)",
+        translate:"chủ / nhân viên",
+        transcription:"/ɪmˈplɔɪə(r)/ / /ɪmˈplɔɪiː/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/employee?q=employee",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/employee__gb_5.mp3"
+    },
+    {
+        id:55,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/price.avif",
+        vocabulary:"price (n)",
+        translate:"giá",
+        transcription:"/praɪs/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/price_1?q=price",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/price__gb_1.mp3"
+    },
+    {
+        id:56,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/cost.avif",
+        vocabulary:"cost (n)",
+        translate:"chi phí",
+        transcription:"/kɒst/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/cost_1?q=cost",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/cost__gb_1.mp3"
+    },
+    {
+        id:57,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/revenue.avif",
+        vocabulary:"revenue (n)",
+        translate:"doanh thu",
+        transcription:"/ˈrevənjuː/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/revenue?q=revenue",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/revenue__gb_2.mp3"
+    },
+    {
+        id:58,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/profit.avif",
+        vocabulary:"profit (n)",
+        translate:"lợi nhuận",
+        transcription:"/ˈprɒfɪt/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/profit_1?q=profit",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/profit__gb_2.mp3"
+    },
+    {
+        id:59,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/budget.avif",
+        vocabulary:"budget (n)",
+        translate:"ngân sách",
+        transcription:"/ˈbʌdʒɪt/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/budget_1?q=budget",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/budget__gb_2.mp3"
+    },
+    {
+        id:60,
+        img:"https://personal-project.b-cdn.net/flashcard-english/image/strategy.avif",
+        vocabulary:"strategy (n)",
+        translate:"chiến lược",
+        transcription:"/ˈstrætədʒi/",
+        url:"https://www.oxfordlearnersdictionaries.com/definition/english/strategy?q=strategy",
+        audio:"https://personal-project.b-cdn.net/flashcard-english/audio/strategy__gb_3.mp3"
     }
 ]

@@ -210,9 +210,11 @@ img {
   .card__container {
     grid-template-columns: repeat(4, 1fr);
   }
+
   .card__img {
     width: 348px;
   }
+
   .card__data {
     width: 316px;
     padding-inline: 2.5rem;

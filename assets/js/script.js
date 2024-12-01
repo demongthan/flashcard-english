@@ -2,7 +2,7 @@ const cardContainer = document.querySelector('.card__container');
 
 console.log(wordData)
 
-wordData.forEach(word => {
+wordData.sort((a, b) => b.id - a.id).forEach(word => {
     const article = document.createElement('article');
     article.className = 'card__article';
 
